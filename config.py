@@ -14,15 +14,15 @@ API_HASH = "bb28ae5ce2b87fa5a6e31e64ba8ea7e2"
 BOT_TOKEN = "7423148448:AAGSv7HRYAZG2H86kl23c4lS_0WhP2l1_KY"
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "MONGO_DB_URI"
+MONGO_DB_URI = "mongodb+srv://SirYadav1:YADAV.COM@yadav.vohme.mongodb.net/?retryWrites=true&w=majority&appName=Yadav"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = LOG_GROUP_ID
+LOG_GROUP_ID = -1002471042245
 
 # Get this value from @ultron2_robot on Telegram by /id
-OWNER_ID = OWNER_ID
+OWNER_ID = 7008504169
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
