@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/thanos_pro"
-SUPPORT_GROUP = "https://t.me/thanosprosss"
+SUPPORT_CHANNEL = "https://t.me/vpnclouderrrs"
+SUPPORT_GROUP = "https://t.me/vpnclouderrrs"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -62,7 +62,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = "STRING_SESSION"
+STRING1 = "1BVtsOHYBuwrgIj4LmiMWWr0psWwXlnt7oSkcvjL4r1j_UOWcStNcM-itkEIq9Mjf4nD3Hv9aW1-gJDPFXW5pNGtJeowdsgo8e0ryL6Z40D2J9xArzskb5Btv-8DhXTb-lOCmmAHgKaeffw7KFu5ylMVqat8k5YlFEELD7F6pr9Mu-GDG9JpMKohrDoS3xzuiwmqkV5SSGVZIrV8gOLylt2a4A2xvO-PSikRXCSaB7ocjQFW6ULhadZYiuWc5q-4RUfytkueGuMHzzhnjTNy-lUbXAMCXPac_jRFXe7WRF5_PIS2kn5P2-nLzyKqaW3gHG5z3syCpEGKJDQSnmuj1NOmb_fa6VVI="
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -77,20 +77,20 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+START_IMG_URL = "https://graph.org/file/5887669d64d92b2ade09d-56aa77621bd04d2389.jpg"
 
-PING_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
+PING_IMG_URL = "https://graph.org/file/5887669d64d92b2ade09d-56aa77621bd04d2389.jpg"
 
-PLAYLIST_IMG_URL = "https://graph.org/file/763a841a2ad5cbb1e2fc5.jpg"
-STATS_IMG_URL = "https://graph.org/file/f586172fe40a0b5d0b0df.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
-TELEGRAM_VIDEO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
-STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
-SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
-YOUTUBE_IMG_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
-SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/b35fd1dfca73b950b1b05.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/95b3ca7993bbfaf993dcb.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/5887669d64d92b2ade09d-56aa77621bd04d2389.jpg"
+STATS_IMG_URL = "https://graph.org/file/5887669d64d92b2ade09d-56aa77621bd04d2389.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/5887669d64d92b2ade09d-56aa77621bd04d2389.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/5887669d64d92b2ade09d-56aa77621bd04d2389.jpg"
+STREAM_IMG_URL = "https://graph.org/file/5887669d64d92b2ade09d-56aa77621bd04d2389.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/5887669d64d92b2ade09d-56aa77621bd04d2389.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/5887669d64d92b2ade09d-56aa77621bd04d2389.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/5887669d64d92b2ade09d-56aa77621bd04d2389.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/5887669d64d92b2ade09d-56aa77621bd04d2389.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/5887669d64d92b2ade09d-56aa77621bd04d2389.jpg"
 
 
 def time_to_seconds(time):
