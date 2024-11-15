@@ -7,11 +7,11 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = API_ID
-API_HASH = "API_HASH"
+API_ID = 24600747
+API_HASH = "bb28ae5ce2b87fa5a6e31e64ba8ea7e2"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "BOT_TOKEN"
+BOT_TOKEN = "7423148448:AAGSv7HRYAZG2H86kl23c4lS_0WhP2l1_KY"
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = "MONGO_DB_URI"
